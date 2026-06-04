@@ -1,4 +1,4 @@
-# Projeto-Repositório-de-Imagens-Baseado-no-Pinterest
+# Projeto-Repositório-de-Imagens
 Um repositório de imagens baseado no Pinterest feito utilizando Pyhton e HTML
 
 Para iniciar o programa, execute o arquivo `main.py`
