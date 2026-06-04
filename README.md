@@ -1,5 +1,5 @@
-# Projeto-Clone-Pinterest
-Um clone do Pinterest feito utilizando Pyhton e HTML
+# Projeto-Repositório-de-Imagens-Baseado-no-Pinterest
+Um repositório de imagens baseado no Pinterest feito utilizando Pyhton e HTML
 
 Para iniciar o programa, execute o arquivo `main.py`
 
